@@ -24,3 +24,6 @@ java -jar target/sr1-tp2-reda-laghmich-0.0.1-SNAPSHOT.jar
 
 # Notes
 All the files are stored in the [server_data](server_data/) directory.
+
+# For developers
+To view the conception of the project there is the [UML diagram ](docs/ftpServer.png).
